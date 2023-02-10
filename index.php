@@ -12,7 +12,7 @@ include_once ROOT . 'views/includes/header.php';
 <?php include_once ROOT . 'views/includes/navbar.php'; ?> 
 
     <h1>Mon site Marchand</h1>
-    <P> A moi</P>
+    <P> Serge de GitHub</P>
 
 <?php include_once ROOT . 'views/includes/footer.php'; ?>
 </body>
